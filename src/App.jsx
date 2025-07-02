@@ -70,7 +70,7 @@ export default function ParentsLogin() {
                   {showPassword ? <EyeOff size={18} /> : <Eye size={18} />}
                 </button>
               </div>
-              <a href="#" className="text-xs text-black-500 underline mt-1 inline-block italic">
+              <a href="#" className="text-xs text-black-500 hover:underline mt-1 inline-block italic">
                 Forgot your password?
               </a>
             </div>
