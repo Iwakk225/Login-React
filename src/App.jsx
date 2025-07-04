@@ -1,6 +1,6 @@
 // src/App.jsx
 import React from "react";
-import ParentsLogin from "./components/ParentsLogin"; // pastikan path-nya sesuai
+import ParentsLogin from "./components/ParentsLogin"; 
 
 function App() {
   return (
